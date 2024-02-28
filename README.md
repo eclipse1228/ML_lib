@@ -1,2 +1,2 @@
 # ML_lib
-Python ML 
+Python Data Science StudyNote
